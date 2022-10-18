@@ -1,0 +1,46 @@
+{
+  "akuns": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "Sandi putra",
+      "password": "sandyptr",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "agrgv",
+      "password": "segv",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "Sandi putra",
+      "password": "sandy",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "fdgb",
+      "password": "sevfse",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "username": "sds",
+      "password": "srdegv",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "hufyugkjvfiulj",
+      "password": "tyudfiyukgfiyuo",
+      "role": "user",
+      "id": 7
+    }
+  ]
+}
