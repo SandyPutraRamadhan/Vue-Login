@@ -42,5 +42,35 @@
       "role": "user",
       "id": 7
     }
+  ],
+  "jakartas": [
+    {
+      "id": 1,
+      "wis": "Monas",
+      "kotajakar": "Jakarta Pusat",
+      "budayajakar": "Tradisi Pencak Silat",
+      "Luasjakar": "52,38 km²",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/b/b1/Merdeka_Square_Monas_02.jpg/800px-Merdeka_Square_Monas_02.jpg"
+    }
+  ],
+  "jabars": [
+    {
+      "id": 1,
+      "wisjabar": "Lembang Park & Zoo",
+      "kota": "Bandung",
+      "budayajabar": "Bandung Light Festival",
+      "Transportasijabar": "167,3 km²",
+      "imagejabar": "https://bandungkita.id/storage/2021/03/1-18.jpg"
+    }
+  ],
+  "jatengs": [
+    {
+      "id": 1,
+      "wisjateng": "Wisata air panas Guci",
+      "kotajateng": "Kota Tegal",
+      "budayajateng": "Tradisi Moci",
+      "Transportasijateng": "39,68 km²",
+      "imagejateng": "https://cdn-2.tstatic.net/jateng/foto/bank/images/prakiraan-cuaca-monumen-tegal-bahari.jpg"
+    }
   ]
 }
